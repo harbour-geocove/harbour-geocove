@@ -19,8 +19,8 @@ Todo:
 - sending log the cache
 - more features like calculation of multi/mystery cache ?
 
-<img width="1080" height="2160" alt="Screenshot_20261101_205116_001" src="https://github.com/user-attachments/assets/9ea4814a-49e2-4f80-954f-f4b8bb8a98fa" />
-<img width="1080" height="2160" alt="Screenshot_20261101_205123_001" src="https://github.com/user-attachments/assets/a9d4cc5f-c323-4f92-a3c8-7b516bc18a29" />
-<img width="1080" height="2160" alt="Screenshot_20261101_205154_001" src="https://github.com/user-attachments/assets/72b8ffc7-d0f3-4f28-9b0d-58f79a08c766" />
-<img width="1080" height="2160" alt="Screenshot_20261101_214538_001" src="https://github.com/user-attachments/assets/931887c6-5398-4cf9-a653-713ac4815454" />
-<img width="1080" height="2160" alt="Screenshot_20261101_214558_001" src="https://github.com/user-attachments/assets/3fce09eb-bf84-4435-9cf7-0760f56651ec" />
+<img width="540" height="1080" alt="Screenshot_20261101_205116_001" src="https://github.com/user-attachments/assets/9ea4814a-49e2-4f80-954f-f4b8bb8a98fa" />
+<img width="540" height="1080" alt="Screenshot_20261101_205123_001" src="https://github.com/user-attachments/assets/a9d4cc5f-c323-4f92-a3c8-7b516bc18a29" />
+<img width="540" height="1080" alt="Screenshot_20261101_205154_001" src="https://github.com/user-attachments/assets/72b8ffc7-d0f3-4f28-9b0d-58f79a08c766" />
+<img width="540" height="1080" alt="Screenshot_20261101_214538_001" src="https://github.com/user-attachments/assets/931887c6-5398-4cf9-a653-713ac4815454" />
+<img width="540" height="1080" alt="Screenshot_20261101_214558_001" src="https://github.com/user-attachments/assets/3fce09eb-bf84-4435-9cf7-0760f56651ec" />
