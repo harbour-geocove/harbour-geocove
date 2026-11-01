@@ -1,0 +1,6 @@
+singleton Backend 1.0 Backend.qml
+StatusBanner 1.0 StatusBanner.qml
+TextInputDialog 1.0 TextInputDialog.qml
+CacheBadge 1.0 CacheBadge.qml
+BusyBar 1.0 BusyBar.qml
+ClusterBadge 1.0 ClusterBadge.qml
